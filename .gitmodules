@@ -1,0 +1,3 @@
+[submodule "Plugins/PSMovePlugin"]
+	path = Plugins/PSMovePlugin
+	url = https://github.com/cboulay/psmove-ue4
